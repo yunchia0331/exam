@@ -166,5 +166,26 @@ plt.show()
 s.close()
 ```
 結果
+1/2
+![image](https://user-images.githubusercontent.com/79571560/113850641-42d0c480-97cd-11eb-911b-a17291b62fe5.png)
+![image](https://user-images.githubusercontent.com/79571560/113850666-49f7d280-97cd-11eb-8b30-d6ce34ee234d.png)
+
+1
+![image](https://user-images.githubusercontent.com/79571560/113850752-5ed46600-97cd-11eb-8825-48574ce6a675.png)
+![image](https://user-images.githubusercontent.com/79571560/113850780-66940a80-97cd-11eb-9d3f-facf1d3934db.png)
+
+1/8
+![image](https://user-images.githubusercontent.com/79571560/113850860-7a3f7100-97cd-11eb-8338-6a832901eec4.png)
+![image](https://user-images.githubusercontent.com/79571560/113850912-84fa0600-97cd-11eb-9701-77fdf8e5fd28.png)
+
+1/4
+![image](https://user-images.githubusercontent.com/79571560/113850943-8cb9aa80-97cd-11eb-85ca-49987ef9e75a.png)
+![image](https://user-images.githubusercontent.com/79571560/113850980-96dba900-97cd-11eb-9ea6-c6967fab9613.png)
+
+
+
+
+
+
 
 
